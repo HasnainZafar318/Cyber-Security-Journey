@@ -1,4 +1,4 @@
-# 🛡️ Cyber Security Journey
+# 🛡️ Cyber Security Labs & Scripts
 
 > **Muhammad Hasnain Zafar**  
 > BS Cyber Security @ University of Engineering and Technology (UET) Lahore  
@@ -6,18 +6,8 @@
 
 ---
 
-## 📌 About This Repository
-This repository is my structured technical vault—documenting security fundamentals, Linux & networking cheat sheets, hands-on lab writeups, and verified credentials as I build my expertise in cybersecurity.
-
----
-
-## 🗂️ Repository Structure
-
-* **`01-Security-Foundations/`** — Core Concepts, Threat Landscape & Cryptography *(Completed)*
-* **`02-Linux-And-Bash/`** — Kali Linux CLI, Permissions & Bash Scripting *(In Progress)*
-* **`03-Networking-Security/`** — TCP/IP, Firewalls & Network Defense *(Planned)*
-* **`04-Web-And-Offensive-Labs/`** — Vulnerability Writeups & Bug Bounty Methodology *(Planned)*
-* **`Certificates-Log.md`** — Industry Badges & Verified Courses *(Updating)*
+## 📌 Overview
+A practical repository housing my custom automation scripts, Linux administration utilities, network reconnaissance cheat sheets, and hands-on lab writeups.
 
 ---
 
